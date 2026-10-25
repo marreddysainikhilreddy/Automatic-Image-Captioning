@@ -1,4 +1,9 @@
 # Automatic-Image-Captioning
+
+<p align="center">
+  <img src="docs/images/project-cover.jpg" alt="Image Captioning — CNN and RNN" width="720" />
+</p>
+
 <p>I have created a simple and effective neural network architecture that includes a Vision Deep CNN and a Language Generating RNN to 
 automatically generate captions from images using Microsoft Common Objects in Context (MS COCO) dataset.</p>
 <h3>Image Captioning Model</h3>
